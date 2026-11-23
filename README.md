@@ -1,8 +1,8 @@
 # Hi, I'm Rasha 👋
 
-Computer Science student at **Taif University** (graduating 2027), building toward a career in **Clinical AI** and **Clinical Decision Support Systems (CDSS)**.
+Computer Science student at **Taif University** (graduating 2027), interested in **software development**, **AI**, and building tools that solve real problems.
 
-I'm interested in how software and AI can make healthcare safer, clearer, and easier for both patients and clinicians.
+I enjoy turning ideas into working products, from websites to app prototypes.
 
 ## 🛠️ Projects
 
@@ -12,11 +12,12 @@ I'm interested in how software and AI can make healthcare safer, clearer, and ea
 | **Dawaai (دوائي)** | Arabic medication-management app prototype, built with Manus for a hackathon. | [Live prototype](https://dawaicare-ibigu6ka.manus.space/) |
 | **Daily Symptom Tracker** | Bilingual (Arabic/English) web app for logging symptoms, severity, sleep, food, and stress, with PDF export to share with a doctor. Python. | Coming soon |
 
-## 🔭 Focus Areas
+## 🔭 Interests
 
-- Clinical AI & decision support
-- Health informatics
-- Building bilingual (Arabic/English) health tools
+- Software & web development
+- Artificial intelligence & machine learning
+- Building bilingual (Arabic/English) products
+- Tech for healthcare
 
 ## 📫 Connect
 
